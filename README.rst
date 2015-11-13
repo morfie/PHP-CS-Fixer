@@ -2,7 +2,9 @@ PhpStorm external tools
 =======================
 
 Program: /home/morfie/workspace/PHP-CS-Fixer/php-cs-fixer
+
 Arguments: fix --fixers=remove_lines_between_uses,virgo_use "$FileDir$/$FileName$
+
 Project Dir: $ProjectFileDir$
 
 
